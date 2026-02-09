@@ -32,8 +32,8 @@ pip install -r requirements.txt
 
 | Parameter | Default | Description |
 |-----------|---------|-------------|
-| `lower_green` | [30, 30, 30] | Lower HSV threshold for green detection |
-| `upper_green` | [90, 255, 255] | Upper HSV threshold for green detection |
+| `lower_green` | [35, 60, 50] | Lower HSV threshold for green detection |
+| `upper_green` | [85, 255, 255] | Upper HSV threshold for green detection |
 | `min_area` | 200 | Minimum explant area in pixels |
 | `max_area` | 20000 | Maximum explant area in pixels |
 
@@ -54,4 +54,4 @@ pip install -r requirements.txt
 MIT License
 
 ## Author
-[Your Name]
+Nikolaos Ntelkis
